@@ -6,7 +6,7 @@ function App() {
   return (
     <>
       <Head />
-      <div className="cards flex mt-[33px]">
+      <div className="cards flex mt-[33px] flex-wrap">
         <Cards check="Go Check" />
       <Cards check="Go Check" />
       <Cards check="Go Checkkk"/>
