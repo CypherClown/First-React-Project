@@ -1,14 +1,9 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
 import './App.css'
 import Cards from './components/Cards';
 import Head from './components/Head';
-import Colors from './components/Colors';
+import Colors from './components/colors';
 
 function App() {
-  const [count, setCount] = useState(0)
-
   return (
     <>
       <Head />
