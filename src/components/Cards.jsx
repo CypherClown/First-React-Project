@@ -3,7 +3,7 @@ import React from 'react'
 const Cards = ({ check }) => {
   return (
     <div className='p-[40px] flex items-start whitespace-nowrap max-w-[424px] hover:border-white transition-all  hover:shadow-2xl rounded-2xl border-1 border-[#CCCCCC] cursor-pointer flex-col '>
-      <img src="https://i.ibb.co/ymh0kTCb/Rectangle-64.png" alt=""  className='rounded-2xl'/>
+      <img src="./public/assets/Rectangle 64.png" alt=""  className='rounded-2xl'/>
       <div className="text-area flex flex-col items-start text-start">
         <p className='font-[Poppins] text-[24px] text-black leading-[150%] font-[600] mt-[21px]'>
           Lorem ipsum dolar sit de
