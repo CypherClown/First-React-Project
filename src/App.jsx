@@ -11,7 +11,6 @@ function App() {
         <Cards check="Go Check" />
       <Cards check="Go Check" />
       <Cards check="Go Checkkk"/>
-      <Colors />
       </div>
       
     </>
